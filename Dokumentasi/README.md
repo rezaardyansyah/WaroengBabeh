@@ -7,21 +7,30 @@ lalu setelah itu, pemesanan bisa diperlihatkan ke kasir dari resto tersebut , re
 
 ## featur
 >sprint1
+* Link ke nomor whatsapp
+* Menampilkan menu-menu
+* Menambahkan pesanan
+* Menghitung jumlah pesanan
+* Checkout
+* Menampilkan rincian pesanan
 
 ## Keterangan Folder
 >
 
 
 ### Requirements
-
+* node 8+
+* php 7+
+* composer 1.9+
+* yarn 1.13+ or npm 6.4+
 
 ### Installation
-> cara instalasi
+> Masuk web menggunakan barcode
 
 ## [Usage](#usage)
-> 
+> Kunjungi website menggunakan barcode
+> Jelajahi berbagai tujuan, seperti melihat menu dan melakukan pembayaran pesanan
 
 
 ## [Configuration](#configuration)
 > konfigurasi yang dibutuhkan jika ada
-
